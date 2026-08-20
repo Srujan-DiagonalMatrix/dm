@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 104" role="img" aria-labelledby="title desc">
+  <title id="title">JAY Builders</title>
+  <desc id="desc">JAY Builders wordmark beneath an orange roof line.</desc>
+  <path d="M24 35 90 10l41 15 18-7 41 17" fill="none" stroke="#f5a000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <path d="m126 23 8-12 12 15" fill="none" stroke="#f5a000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <text x="108" y="72" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" letter-spacing="2" text-anchor="middle">JAY</text>
+  <text x="109" y="93" fill="#f5a000" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="6" text-anchor="middle">BUILDERS</text>
+</svg>
